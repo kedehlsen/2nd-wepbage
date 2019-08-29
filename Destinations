@@ -1,0 +1,22 @@
+<! DOCTYPE HTML>
+<html>
+  <head>
+    <title>Destinations</title>
+    
+    <style>
+      h1{
+       font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+        text-align: center;
+        color: grey;
+      }
+      body
+      {
+        background: MediumAquaMarine; 
+      }
+    </style>
+  </head>
+  
+  <body>
+    <h1>Destinations</h1>
+  </body>
+</html>
